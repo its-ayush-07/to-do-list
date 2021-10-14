@@ -1,2 +1,2 @@
-# to-do-list
-Basic To-do list
+# ToDo-list
+Basic To-do list using HTML,CSS and JavaScript.
